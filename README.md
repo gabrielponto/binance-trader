@@ -1,4 +1,10 @@
-# Binance Trader (RC 2)
+# Go Binance Trader
+
+This is a fork from [https://github.com/yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader).
+
+The initial objective is create a simulate environment to test bot capatibles. The sections below are from Binance Trader README:
+
+
 
 This is an experimental bot for auto trading the binance.com exchange. [@yasinkuyu](https://twitter.com/yasinkuyu)
 
